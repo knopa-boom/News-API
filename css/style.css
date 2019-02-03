@@ -1,0 +1,10 @@
+.news-card .card-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.news-card .card-action .favorite-btn:hover {
+    color: #ab47bc !important;
+    cursor: pointer;
+}
